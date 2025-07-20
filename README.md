@@ -6,7 +6,6 @@ Mechatronics Engineering Student
 
 Mechatronics Engineering student with strong hands-on experience in C/C++ programming, embedded systems development, and Linux-based environments. Passionate about low-level hardware-software integration, real-time systems, and efficient digital design. Eager to apply academic knowledge in practical engineering projects, with a growing interest in cloud technologies and system optimization. Fast learner with solid problem-solving skills and a drive to contribute to innovative, high-impact industrial solutions. Actively seeking a technical internship to further develop my skills in real-world environments.
 
-* 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [Abdallah Mousa](http://abdallah-mousa.vercel.app)
 * ✉️  You can contact me at [23013075@o6u.edu.eg](mailto:23013075@o6u.edu.eg)
 
